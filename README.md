@@ -87,8 +87,7 @@ python scripts/piv_challenge_case_b_test.py
 python scripts/generate_poster_overview_assets.py
 ```
 
-<p align="center">
-  <img src="vortex_latent_model.png" width="30%">
-  <img src="vortex_phase_compare_deepadp.png" width="30%">
-  <img src="vortex_phase_compare_kutz.png" width="30%">
-</p>S
+## Results
+![Lataent Modes](vortex_latent_modes.png)
+![Results comparison for Deepxde dataset](vortex_phase_compare_deepxde.png)
+![Results comparison for Kutz dataset](vortex_phase_compare_kutz.png)
