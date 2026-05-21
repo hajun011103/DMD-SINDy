@@ -88,6 +88,9 @@ python scripts/generate_poster_overview_assets.py
 ```
 
 ## Results
-![Lataent Modes](vortex_latent_modes.png)
-![Results comparison for Deepxde dataset](vortex_phase_compare_deepxde.png)
-![Results comparison for Kutz dataset](vortex_phase_compare_kutz.png)
+
+<p align="center">
+  <img src="vortex_latent_modes.png" width="30%">
+  <img src="vortex_phase_compare_deepxde.png" width="30%">
+  <img src="vortex_phase_compare_kutz.png" width="30%">
+</p>
