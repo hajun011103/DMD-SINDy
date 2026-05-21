@@ -2,6 +2,9 @@
 
 This repository contains the scripts, result tables, and KSME submission files for a DMD + SINDy workflow for noise-robust governing-equation discovery in vortex-shedding data.
 
+## KSME 2026 Poster
+![poster](docs/HajunJang_KSME2026Poster.pdf)
+
 ## Repository Layout
 
 - `docs/`: final KSME abstract and poster files.
