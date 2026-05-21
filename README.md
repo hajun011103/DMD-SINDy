@@ -91,6 +91,6 @@ python scripts/generate_poster_overview_assets.py
 
 <p align="center">
   <img src="vortex_latent_modes.png" width="100%">
-  <img src="vortex_phase_compare_deepxde.png" width="50%">
-  <img src="vortex_phase_compare_kutz.png" width="50%">
+  <img src="vortex_phase_compare_deepxde.png" width="45%">
+  <img src="vortex_phase_compare_kutz.png" width="45%">
 </p>
