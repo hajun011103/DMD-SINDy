@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local tool/cache files
+.git
+.codex
+.mplconfig/
+*.Zone.Identifier
+*:Zone.Identifier
+
+# Raw datasets are too large for normal GitHub pushes.
+# Only the Kutz and DeepXDE benchmark datasets are documented for reuse.
+# Download instructions are listed in the main README.
+data/**/*.mat
+data/**/*.zip
+data/benchmarks/
+
+# Local exploratory real-data runs that are not part of the public upload scope.
+results/experimental_single_cylinder*
+results/piv_case_b*
+scripts/benchmark_experimental_single_cylinder.py
+scripts/experimental_single_cylinder_re100.py
+scripts/piv_challenge_case_b_test.py
+
+# Generated figure library. README images live in assets/.
+figures/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

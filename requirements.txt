@@ -1,0 +1,9 @@
+gplearn
+matplotlib
+numpy
+pandas
+pillow
+pydmd
+pysindy
+scikit-learn
+scipy

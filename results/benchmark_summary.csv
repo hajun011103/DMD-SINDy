@@ -1,0 +1,7 @@
+dataset,dataset_label,method,method_label,filter_rank,library_name,differentiation_name,threshold,field_nrmse,state_rmse,active_terms,interpretability_penalty,shift_corr,reference_shift_corr,long_horizon_max_norm,stable
+deepxde_cylinder,"DeepXDE Cylinder (u,v)",dmd_sindy,DMD+SINDy,10,poly2,finite_difference,0.215,0.08766336718513762,2.3333759468775854,17,19.665404895287836,0.8892980661673795,,23.252467814567982,True
+deepxde_cylinder,"DeepXDE Cylinder (u,v)",pod_sindy,POD+SINDy,6,poly2,finite_difference,0.00464,inf,inf,30,25.65548094296235,0.19396612316958756,,inf,False
+deepxde_cylinder,"DeepXDE Cylinder (u,v)",raw_sindy,Pure SINDy,3,poly2,finite_difference,0.215,inf,inf,25,26.426015384569506,0.1939661231695854,,inf,False
+kutz_cylinder,Kutz Cylinder (vorticity),dmd_sindy,DMD+SINDy,9,meanfield_poly2,finite_difference,0.1,0.2120222571220692,3.229220378046642,9,7.460477429302841,0.08800363135631933,1.0,150.80449470226932,True
+kutz_cylinder,Kutz Cylinder (vorticity),pod_sindy,POD+SINDy,10,poly3,tvregdiff,1.0,0.6678226671958291,122.22263952557279,11,18.958483255365536,0.7033516680945722,1.0,159.09379107170327,True
+kutz_cylinder,Kutz Cylinder (vorticity),raw_sindy,Pure SINDy,3,poly3,tvregdiff,1.0,0.6678236749778562,122.22284449791938,11,18.958780740094895,0.7033521474421289,1.0,159.0951169771013,True
